@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align='center'>
+  <font size="70">👋Hello, World!</font>
+</div>
 
 <!--
 **STrance13/STrance13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
