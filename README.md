@@ -1,7 +1,10 @@
-<div align='center'>
-  <font size="70">👋Hello, World!</font>
-</div>
-
+</br></br></br>
+<p align='center' style="font-size: 144px;">
+  <b>
+  <👋Hello, World!/>
+  </b>
+</p>
+</br></br></br>
 <!--
 **STrance13/STrance13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
