@@ -1,5 +1,5 @@
 </br></br></br>
-<p align='center' style="font-size: 144px;">
+<p align='center'>
   <b>
   <👋Hello, World!/>
   </b>
